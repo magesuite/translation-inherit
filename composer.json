@@ -11,7 +11,7 @@
             "MageSuite\\TranslationInherit\\": ""
         }
     },
-    "conflict": {
+    "replace": {
         "lavoweb/translationinherit": "*"
     }
 }
