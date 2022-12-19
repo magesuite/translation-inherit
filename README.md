@@ -1,3 +1,5 @@
+https://creativestyle.atlassian.net/wiki/spaces/MGSDEV/pages/2307948545/TranslationInherit+optional
+
 ## Example of usage
 Add to di.xml
 ```
